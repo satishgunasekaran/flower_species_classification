@@ -81,8 +81,6 @@ def home():
 @app.route('/predict', methods=['POST'])
 def predict():
 
-    print("Sunil is a great developer")
-
 
     # Form handling part
     if 'file' not in request.files:
