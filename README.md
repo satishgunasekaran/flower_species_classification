@@ -13,4 +13,4 @@ https://www.kaggle.com/satishgunasekaran/flower-species-classification-using-cnn
 
 I used `tensorflow-cpu` instead of `tensorflow` to reduce the slug size to deploy in heroku as max allowed slug size is 500 M
 
-[![SC2 Video](youtube.gif.mp4)](https://youtu.be/3978mbfxdog)
+[![Project Video]](https://youtu.be/3978mbfxdog)
